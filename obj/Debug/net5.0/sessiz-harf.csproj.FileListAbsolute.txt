@@ -1,0 +1,15 @@
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\bin\Debug\net5.0\sessiz-harf.exe
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\bin\Debug\net5.0\sessiz-harf.deps.json
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\bin\Debug\net5.0\sessiz-harf.runtimeconfig.json
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\bin\Debug\net5.0\sessiz-harf.runtimeconfig.dev.json
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\bin\Debug\net5.0\sessiz-harf.dll
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\bin\Debug\net5.0\sessiz-harf.pdb
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\obj\Debug\net5.0\sessiz-harf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\obj\Debug\net5.0\sessiz-harf.AssemblyInfoInputs.cache
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\obj\Debug\net5.0\sessiz-harf.AssemblyInfo.cs
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\obj\Debug\net5.0\sessiz-harf.csproj.CoreCompileInputs.cache
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\obj\Debug\net5.0\sessiz-harf.dll
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\obj\Debug\net5.0\refint\sessiz-harf.dll
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\obj\Debug\net5.0\sessiz-harf.pdb
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\obj\Debug\net5.0\sessiz-harf.genruntimeconfig.cache
+C:\Users\yusuf.ceylan\Desktop\Pratikler\sessiz-harf\obj\Debug\net5.0\ref\sessiz-harf.dll
